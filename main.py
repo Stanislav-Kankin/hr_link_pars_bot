@@ -1,3 +1,3 @@
-class Bot:
-    def __init__(self, token: str) -> None:
-        pass
+from config import TOKEN
+
+token = TOKEN
